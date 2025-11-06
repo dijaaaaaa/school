@@ -10,9 +10,6 @@ Console.WriteLine("Ich zähle bis 100 wenn die Nummer durch 3 teilbar ist sage i
 Console.WriteLine("Wenn es durch 5 teilbar ist sage ich BUZZ");
 Console.WriteLine("Und wenn es durch beide Zahlen teilbar ist sage ich FIZZBUZZ");
 
-Console.WriteLine("\nSind Sie bereit?");
-Console.WriteLine("Bitte drucken Sie Taste [1] um zu satrten");
-
 Console.WriteLine("\nMöchten Sie Ihre eigene Zahl einfugen?");
 Console.WriteLine("Wenn ja [1]");
 Console.WriteLine("Wenn nein [2]");
@@ -137,4 +134,5 @@ else
     Console.Clear();
     Console.WriteLine("Tschüss!");
 }
+
 
